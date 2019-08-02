@@ -1,1 +1,1 @@
-const currentUser = "Evan Markert"; 
+const currentUser = "Evan Markert";
